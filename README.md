@@ -19,6 +19,12 @@ conda activate syumi-note
   - [Hoeffdingの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Hoeffding_inequality.ipynb "Hoeffding_inequality")
   - [Bernsteinの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/bernstein.ipynb "Bernstein_inequality") 
 - バンディット理論
-  - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "Bernstein_inequality")  
+  - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
+  - [Lin-UCB](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")   
 - 強化学習
   - TO DO
+
+
+
+
+  
