@@ -17,7 +17,7 @@ conda activate syumi-note
 
 - 確率論の基礎
   - [Hoeffdingの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Hoeffding_inequality.ipynb "Hoeffding_inequality")
-  - [Bernsteinの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Bernstein_inequality.ipynb "Bernstein_inequality") 
+  - [Bernsteinの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Bernstein_inequality.ipynb "Bernstein_inequalit") 
 - バンディット理論
   - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")   
