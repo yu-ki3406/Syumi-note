@@ -21,7 +21,7 @@ conda activate syumi-note
   - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")  
   - [Thompson_sampling](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Thompson_sampling.ipynb 'TS_bandit') 
-  - [UCB Bandit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
+  - [UCB Bandit(Under Construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
 - 強化学習
   - TO DO
 
