@@ -23,6 +23,7 @@ conda activate syumi-note
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")  
   - [Thompson_sampling](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Thompson_sampling.ipynb 'TS_bandit') 
   - [UCB (Under Construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
+  - [理論限界について] (https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
 - 強化学習
   - TO DO
 
