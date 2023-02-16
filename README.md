@@ -24,6 +24,8 @@ conda activate syumi-note
   - [Thompson_sampling](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Thompson_sampling.ipynb 'TS_bandit') 
   - [UCB (Under Construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
   - [理論限界について (TO DO : 後日例も加える)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
+- 関数解析
+  - [リプシッツ連続(TO DO)]()
 - 強化学習
   - TO DO
 
