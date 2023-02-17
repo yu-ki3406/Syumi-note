@@ -25,7 +25,7 @@ conda activate syumi-note
   - [UCB (Under Construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
   - [理論限界について (TO DO : 後日例も加える)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
 - 関数解析
-  - [リプシッツ連続(TO DO)]()
+  - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
 - 強化学習
   - TO DO
 
