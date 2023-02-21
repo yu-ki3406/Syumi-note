@@ -22,8 +22,8 @@ conda activate syumi-note
   - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")  
   - [Thompson_sampling](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Thompson_sampling.ipynb 'TS_bandit') 
-  - [UCB (Under Construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
-  - [理論限界について (TO DO : 後日例も加える)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
+  - [UCB ](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
+  - [理論限界について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
 - 関数解析
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
 - 強化学習
