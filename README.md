@@ -27,7 +27,7 @@ conda activate syumi-note
 - 関数解析
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
 - 強化学習
-  - TO DO
+  - [Q学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Q_learning.ipynb 'QRL')
 
 
 
