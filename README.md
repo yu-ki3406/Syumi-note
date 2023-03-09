@@ -25,6 +25,7 @@ conda activate syumi-note
   - [Thompson_sampling](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Thompson_sampling.ipynb 'TS_bandit') 
   - [UCB ](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/UCB.ipynb 'ucb')
   - [理論限界について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
+  - [非定常の報酬のバンディット](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/nonstational_bandit.ipynb 'non_sta')
 - 関数解析
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
 - 強化学習
