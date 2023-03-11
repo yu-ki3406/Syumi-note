@@ -32,6 +32,7 @@ conda activate syumi-note
   - [強化学習の基本](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/reinforcement_learing_exercise.ipynb 'RL')
   - [Fitted_Q_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/fitted_Q_iteration.ipynb 'FQI')
   - [greedy方策+エントロピー](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Greedy_with_entropy.ipynb 'rl')
+  - [Mellowmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
 
