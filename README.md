@@ -30,6 +30,7 @@ conda activate syumi-note
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
 - 強化学習
   - [強化学習の基本](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/reinforcement_learing_exercise.ipynb 'RL')
+  - [価値反復法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Value_iteration.ipynb 'VFI')
   - [Fitted_Q_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/fitted_Q_iteration.ipynb 'FQI')
   - [greedy方策+エントロピー](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Greedy_with_entropy.ipynb 'rl')
   - [Mellowmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
