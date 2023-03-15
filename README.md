@@ -33,7 +33,7 @@ conda activate syumi-note
   - [価値反復法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Value_iteration.ipynb 'VFI')
   - [Fitted_Q_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/fitted_Q_iteration.ipynb 'FQI')
   - [greedy方策+エントロピー](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Greedy_with_entropy.ipynb 'rl')
-  - [Mellowmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
+  - [Mellowmax作用素について(更新の式の編集(TODO))](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
 
