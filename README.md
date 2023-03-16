@@ -34,6 +34,7 @@ conda activate syumi-note
   - [Fitted_Q_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/fitted_Q_iteration.ipynb 'FQI')
   - [greedy方策+エントロピー](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Greedy_with_entropy.ipynb 'rl')
   - [Mellowmax作用素について(更新の式の編集(TODO))](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
+  - [Conservative_Value_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Conservative_Value_iteration.ipynb 'cvi')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
 
