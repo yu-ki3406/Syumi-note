@@ -1,7 +1,8 @@
 # Syumi-note
 
 <img src='https://img.shields.io/github/commit-activity/m/yu-ki3406/Syumi-note'>
-**インストール**
+
+## インストール
 
 Anacondaの場合
 ```
