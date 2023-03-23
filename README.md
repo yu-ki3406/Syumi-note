@@ -38,6 +38,7 @@ conda activate syumi-note
   - [greedy方策+エントロピー](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Greedy_with_entropy.ipynb 'rl')
   - [Mellowmax作用素について(更新の式の編集(TODO))](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
   - [Conservative_Value_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Conservative_Value_iteration.ipynb 'cvi')
+  - [ベルマン残差と期待値二乗TD誤差について(途中)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/bellman_residual.ipynb 'rl_resi')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
 
