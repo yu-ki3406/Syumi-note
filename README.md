@@ -43,6 +43,7 @@ python setup.py install
   - [Mellowmax作用素について(更新の式の編集(TODO))](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/mellowmax.ipynb 'mrl')
   - [Conservative_Value_Iteration](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Conservative_Value_iteration.ipynb 'cvi')
   - [ベルマン残差と期待値二乗TD誤差について(途中)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/bellman_residual.ipynb 'rl_resi')
+  - [損失関数のノイズについて(途中)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/RL_Loss_Noise.ipynb 'loss_n')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
 
