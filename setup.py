@@ -12,5 +12,6 @@ setup(
         'scipy==1.10.0',
         'matplotlib==3.6.3',
         'jax==0.4.2'
+        'pulp==2.4.0'
     ],
 )
