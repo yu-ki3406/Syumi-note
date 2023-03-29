@@ -18,6 +18,7 @@ python setup.py install
 
 ## 目次
 
+
 - 確率論
   - [Hoeffdingの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Hoeffding_inequality.ipynb "Hoeffding_inequality")
   - [Bernsteinの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Bernstein_inequality.ipynb "Bernstein_inequalit")
@@ -47,6 +48,7 @@ python setup.py install
   - [強化学習のmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/RL_max_operator.ipynb 'max_operator')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
+  - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
 
 
 
