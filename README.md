@@ -46,6 +46,7 @@ python setup.py install
   - [ベルマン残差と期待値二乗TD誤差について(途中)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/bellman_residual.ipynb 'rl_resi')
   - [損失関数のノイズについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/RL_Loss_Noise.ipynb 'loss_n')
   - [強化学習のmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/RL_max_operator.ipynb 'max_operator')
+  -[ε-greedyh法が良くない説明](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/epsilon_greedy.ipynb 'eps-g')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
