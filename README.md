@@ -51,6 +51,7 @@ python setup.py install
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
+  - [Primal-Dual法(コード追加する)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'pr')
 
 
 
