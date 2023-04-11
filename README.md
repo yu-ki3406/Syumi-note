@@ -49,6 +49,7 @@ python setup.py install
   -[ε-greedyh法が良くない説明(コード自信ない)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/epsilon_greedy.ipynb 'eps-g')
   - [Conservative_Policy_Iteration(CPI)(説明も後で追加)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Conservative_Policy_Iteration.ipynb 'CPI')
   - [OptCMDP(エラーで詰まってる)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_CMDP.ipynb 'cmdp')
+  - [線形計画法で強化学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LP_reinforcement_learning.ipynb 'LP_RL')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
