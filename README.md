@@ -48,6 +48,7 @@ python setup.py install
   - [強化学習のmax作用素について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/RL_max_operator.ipynb 'max_operator')
   -[ε-greedyh法が良くない説明(コード自信ない)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/epsilon_greedy.ipynb 'eps-g')
   - [Conservative_Policy_Iteration(CPI)(説明も後で追加)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Conservative_Policy_Iteration.ipynb 'CPI')
+  - [OptCMDP(エラーで詰まってる)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_CMDP.ipynb 'cmdp')
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
