@@ -33,6 +33,7 @@ python setup.py install
   - [理論限界について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Theoretical_limit.ipynb 'tl')
   - [非定常の報酬のバンディット](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/nonstational_bandit.ipynb 'non_sta')
   - [Posterior_Samplingを使ったバンディット](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Posterior_sampling_bandit.ipynb)
+  - [弱学習器を使ったUCBアルゴリズム](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/weaker_learner_bandit.ipynb 'weak')
 - 関数解析
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
   - [イェンセンの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Jensens_inequality.ipynb 'je')
