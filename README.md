@@ -37,6 +37,7 @@ python setup.py install
 - 関数解析
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
   - [イェンセンの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Jensens_inequality.ipynb 'je')
+  - [統計的学習理論](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Statistical_Learning_Theory.ipynb 'the')
 - 強化学習
   - [強化学習の基本](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/reinforcement_learing_exercise.ipynb 'RL')
   - [価値反復法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Value_iteration.ipynb 'VI')
