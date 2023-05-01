@@ -35,6 +35,7 @@ python setup.py install
   - [Posterior_Samplingを使ったバンディット](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Posterior_sampling_bandit.ipynb)
   - [弱学習器を使ったUCBアルゴリズム](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/weaker_learner_bandit.ipynb 'weak')
 - 関数解析
+  - [凸包について](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Convex_Hull.ipynb 'conv')
   - [リプシッツ連続](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Lipschitz_continuity.ipynb 'LP')
   - [イェンセンの不等式](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Jensens_inequality.ipynb 'je')
   - [統計的学習理論](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Statistical_Learning_Theory.ipynb 'the')
