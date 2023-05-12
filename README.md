@@ -56,13 +56,15 @@ python setup.py install
   - [OptCMDP(エラーで詰まってる)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_CMDP.ipynb 'cmdp')
   - [線形計画法で強化学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LP_reinforcement_learning.ipynb 'LP_RL')
   - [Asynchronous_Q-learning](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Asynchronous_Q_Learning.ipynb 'asyn')
--  最適化
+  - [Robust_MDP(2023.05.12)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Robust_MDP.ipynb 'RMDP')
+- 最適化
   - [Projected_Gradient_Descent](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Projected_Gradient_Descent.ipynb 'PGD')
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.)
 - プログラミング
   - [jaxについて](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/jax_study.ipynb)
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
   - [Primal-Dual法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'pr')
+
 
 
 
