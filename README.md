@@ -25,6 +25,7 @@ python setup.py install
   - [中心極限定理](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Central_limit_theorem.ipynb 'CLT') 
   - [lim_sup,lim_infの解説](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/lim_sup_inf.ipynb 'lim_supinf')
   - [重点サンプリング](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/importance_sampling.ipynb 'imp_samp')
+  - [マルチンゲール (2023.5.18)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Martingale.ipynb 'mar')
 - バンディット問題
   - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")  
