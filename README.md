@@ -67,6 +67,9 @@ python setup.py install
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'opt')
   - [Primal-Dual法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'pr')
 
+- 集合と位相
+  - [集合の濃度(2023.05.21)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Cardinality.ipynb 'car')
+
 
 
 
