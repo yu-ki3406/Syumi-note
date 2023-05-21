@@ -58,7 +58,7 @@ python setup.py install
   - [線形計画法で強化学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LP_reinforcement_learning.ipynb 'LP_RL')
   - [Asynchronous_Q-learning](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Asynchronous_Q_Learning.ipynb 'asyn')
   - [Robust_MDP(2023.05.12)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Robust_MDP.ipynb 'RMDP')
-  - [GMBL(2023.5.14)][https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Optimistic_GMBL.ipynb]
+  - [GMBL(2023.5.14)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Optimistic_GMBL.ipynb 'gmbl')
 - 最適化
   - [Projected_Gradient_Descent](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Projected_Gradient_Descent.ipynb 'PGD')
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.)
