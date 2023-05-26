@@ -60,6 +60,7 @@ python setup.py install
   - [Asynchronous_Q-learning](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Asynchronous_Q_Learning.ipynb 'asyn')
   - [Robust_MDP(2023.05.12)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Robust_MDP.ipynb 'RMDP')
   - [GMBL(2023.5.14)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Optimistic_GMBL.ipynb 'gmbl')
+  - [TD(λ)法の実装と説明](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/TD_leanring.ipynb 'tdr')
 - 最適化
   - [Projected_Gradient_Descent](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Projected_Gradient_Descent.ipynb 'PGD')
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.)
