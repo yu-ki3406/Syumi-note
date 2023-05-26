@@ -1,6 +1,7 @@
 # Syumi-note
 
 <img src='https://img.shields.io/github/commit-activity/m/yu-ki3406/Syumi-note'>
+<img src='https://img.shields.io/github/directory-file-count/yu-ki3406/Syumi-note/notebooks'>
 
 ## インストール
 
