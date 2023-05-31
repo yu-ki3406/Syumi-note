@@ -62,6 +62,7 @@ python setup.py install
   - [GMBL(2023.5.14)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Optimistic_GMBL.ipynb 'gmbl')
   - [TD(λ)法の実装と説明(2023.5.26)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/TD_leanring.ipynb 'tdr')
   - [KLダイバージェンスをフィッシャ情報量行列で近似(2023.05.28)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/KL_and_Fisher.ipynb 'KLF')
+  - [Natural_Policy_Gradient(2023.05.31)まだ途中](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/NPG.ipynb 'NPG')
 - 最適化
   - [Projected_Gradient_Descent](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Projected_Gradient_Descent.ipynb 'PGD')
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.)
