@@ -27,6 +27,7 @@ python setup.py install
   - [lim_sup,lim_infの解説](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/lim_sup_inf.ipynb 'lim_supinf')
   - [重点サンプリング](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/importance_sampling.ipynb 'imp_samp')
   - [マルチンゲール (2023.5.18)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Martingale.ipynb 'mar')
+  - [期待値と極限の順序交換(2023.06.10)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Change_E_Lim.ipynb 'e_lim')
 - バンディット問題
   - [Explore-then-commit](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/explore_then_commit.ipynb "ETC")  
   - [Lin-UCB(under construction)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/LinUCB.ipynb "Lin-UCB")  
