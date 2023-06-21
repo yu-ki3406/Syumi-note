@@ -67,6 +67,7 @@ python setup.py install
   - [Natural_Policy_Gradient(2023.05.31)まだ途中](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/NPG.ipynb 'NPG')
   - [NPG_CMDP(2023.06.04)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/NPG_CMDP.ipynb 'NPG_CMDP')
   - [Sample_NPG_CMDP(2023.06.07)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Sample_CMDP_NPG.ipynb 'sample_n')
+  - [方策のロバスト性(2023.06.18)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Tradeoff_bet_plan_robust.ipynb 'robust_policy')
 - 最適化
   - [Projected_Gradient_Descent](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Projected_Gradient_Descent.ipynb 'PGD')
   - [pulp(数理最適化ライブラリ)の基本的な実装例](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.)
