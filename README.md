@@ -84,6 +84,7 @@ python setup.py install
   - [集合の濃度(2023.05.21)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Cardinality.ipynb 'car')
 
 
-
+- 資料
+ - [ガウス過程回帰(2023.06.26)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Gaussian_process.pdf)
 
   
