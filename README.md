@@ -91,3 +91,4 @@ python setup.py install
 - 12月のアドベントカレンダー(?)
  - [分位点動的計画法(1日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_Dynamic_Programming.ipynb)
  - [分位点TD学習(2日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
+ - [期待値TD学習(3日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
