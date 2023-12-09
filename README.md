@@ -1,16 +1,18 @@
-# Syumi-note
+# Syumi-note 📚
 
-<img src='https://img.shields.io/github/commit-activity/m/yu-ki3406/Syumi-note'>
-<img src='https://img.shields.io/github/directory-file-count/yu-ki3406/Syumi-note/notebooks'>
+![Commit Activity](https://img.shields.io/github/commit-activity/m/yu-ki3406/Syumi-note)
+![File Count](https://img.shields.io/github/directory-file-count/yu-ki3406/Syumi-note/notebooks)
 
-## インストール
+## インストール方法 🛠️
 
-Anacondaの場合
-```
+Anacondaを使用している場合、以下のコマンドで環境を構築し、`syumi-note`をインストールできます。
+
+```shell
 conda create --name syumi-note python==3.9
 conda activate syumi-note
 python setup.py install
 ```
+
 ---
 
 ## 概要
@@ -82,16 +84,16 @@ python setup.py install
   - [Primal-Dual法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Mathematical_optimization.ipynb 'pr')
 
 - 集合と位相
-  - [集合の濃度(2023.05.21)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Cardinality.ipynb 'car')
+  - [(2023.05.21)集合の濃度](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Cardinality.ipynb 'car')
 
 
 - 資料
- - [ガウス過程回帰(2023.06.26)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Gaussian_process.pdf)
+  - [(2023.06.26)ガウス過程回帰](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Gaussian_process.pdf)
 
 - 12月のアドベントカレンダー(?)
- - [分位点動的計画法(1日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_Dynamic_Programming.ipynb)
- - [分位点TD学習(2日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
- - [期待値TD学習(3日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
- - [OptPess-LP(4日目)](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_Pess_LP.ipynb)
+  - [(1日目)分位点動的計画法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_Dynamic_Programming.ipynb)
+  - [(2日目)分位点TD学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
+  - [(3日目)期待値TD学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
+  - [(4日目)OptPess-LP](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_Pess_LP.ipynb)
 
  
