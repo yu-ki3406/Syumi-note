@@ -15,11 +15,11 @@ python setup.py install
 
 ---
 
-## 概要
+## 概要 📝
 
 このリポジトリは, 日々の勉強(主に強化学習に関するもの)について記録を残すために作っています，
 
-## 目次
+## 目次📋
 
 
 - 確率論
@@ -90,7 +90,7 @@ python setup.py install
 - 資料
   - [(2023.06.26)ガウス過程回帰](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Gaussian_process.pdf)
 
-- 12月のアドベントカレンダー(?)
+- アドベントカレンダー 🎄
   - [(1日目)分位点動的計画法](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_Dynamic_Programming.ipynb)
   - [(2日目)分位点TD学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
   - [(3日目)期待値TD学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
