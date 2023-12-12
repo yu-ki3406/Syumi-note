@@ -96,3 +96,4 @@ python setup.py install
   - [(3日目)期待値TD学習](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Quantile_TD_Learning.ipynb)
   - [(4日目)OptPess-LP](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Opt_Pess_LP.ipynb)
   - [(5日目)CMDPの説明](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/CMDP_Explain.ipynb)
+  - [(6日目)Q-sampler](https://github.com/yu-ki3406/Syumi-note/blob/main/notebooks/Q_sampler.ipynb)
